@@ -423,7 +423,7 @@ export default function App() {
       "@type": "NewsMediaOrganization",
       name: "JAD News",
       alternateName: "JAD Multimedia Production",
-      logo: "/jad-logo.png",
+      logo: "/jad-logo.png?v=2",
       description:
         "News, campaign strategy, advertising, video, photography and editing from Mexico, Pampanga.",
     })
@@ -602,7 +602,7 @@ export default function App() {
               navigateView("home")
             }}
           >
-            <img src="/jad-logo.png" alt="JAD Multimedia Production logo" />
+            <img src="/jad-logo.png?v=2" alt="JAD Multimedia Production logo" />
             <span>
               <strong>
                 JAD<span>NEWS</span>
@@ -1213,7 +1213,7 @@ export default function App() {
                 navigateView("home")
               }}
             >
-              <img src="/jad-logo.png" alt="JAD Multimedia" />
+              <img src="/jad-logo.png?v=2" alt="JAD Multimedia" />
               <span>
                 <strong>
                   JAD<span>NEWS</span>

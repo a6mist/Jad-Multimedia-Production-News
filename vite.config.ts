@@ -9,6 +9,9 @@ const siteConfiguration: FigmaSiteConfiguration = {
   title: 'JAD News & Multimedia Production',
   description:
     'News, campaign strategy, advertising, video, photography and editing from Mexico, Pampanga.',
+  icons: {
+    icon: '/jad-logo.png?v=2',
+  },
 }
 
 // Vite config — https://vitejs.dev/config/
