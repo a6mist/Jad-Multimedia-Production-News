@@ -231,8 +231,8 @@ img { display: block; width: 100%; }
 @media (max-width: 680px) {
   :root { --page-gutter: 14px; }
   .topline__links { display: none; }
-  .header__main { height: 82px; }
-  .brand > img { width: 54px; height: 54px; }
+  .header__main { height: 88px; }
+  .brand > img { width: 64px; height: 64px; }
   .brand strong { font-size: 22px; }
   .brand small { display: none; }
   .menu-button { display: grid; }
