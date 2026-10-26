@@ -423,7 +423,7 @@ export default function App() {
       "@type": "NewsMediaOrganization",
       name: "JAD News",
       alternateName: "JAD Multimedia Production",
-      logo: "/jad-logo.png?v=3",
+      logo: "/images/jad-logo.png?v=4",
       description:
         "News, campaign strategy, advertising, video, photography and editing from Mexico, Pampanga.",
     })
@@ -602,7 +602,7 @@ export default function App() {
               navigateView("home")
             }}
           >
-            <img src="/jad-logo.png?v=3" alt="JAD Multimedia Production logo" />
+            <img src="/images/jad-logo.png?v=4" alt="JAD Multimedia Production logo" />
             <span>
               <strong>
                 JAD<span>NEWS</span>
@@ -1050,7 +1050,7 @@ export default function App() {
           </div>
           <div className="leadership-grid">
             <article className="leader-card">
-              <img src="/jake-flores.jpeg" alt="Jake G. Flores" />
+              <img src="/images/jake-flores.jpeg" alt="Jake G. Flores" />
               <div>
                 <span>Chairman</span>
                 <Title level={3}>Jake G. Flores</Title>
@@ -1061,7 +1061,7 @@ export default function App() {
               </div>
             </article>
             <article className="leader-card">
-              <img src="/adrian-tolentino.jpg" alt="Adrian F. Tolentino" />
+              <img src="/images/adrian-tolentino.jpg" alt="Adrian F. Tolentino" />
               <div>
                 <span>Chief Finance Officer</span>
                 <Title level={3}>Adrian F. Tolentino</Title>
@@ -1091,7 +1091,7 @@ export default function App() {
                 <Icon name="arrow" size={16} />
               </Link>
             </div>
-            <img src="/jad-location.png" alt="JAD office at L Plaza Mexico" />
+            <img src="/images/jad-location.png" alt="JAD office at L Plaza Mexico" />
           </div>
         </section>
 
@@ -1213,7 +1213,7 @@ export default function App() {
                 navigateView("home")
               }}
             >
-              <img src="/jad-logo.png?v=3" alt="JAD Multimedia" />
+              <img src="/images/jad-logo.png?v=4" alt="JAD Multimedia" />
               <span>
                 <strong>
                   JAD<span>NEWS</span>

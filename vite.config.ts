@@ -10,7 +10,7 @@ const siteConfiguration: FigmaSiteConfiguration = {
   description:
     'News, campaign strategy, advertising, video, photography and editing from Mexico, Pampanga.',
   icons: {
-    icon: '/jad-logo.png?v=3',
+    icon: '/images/jad-logo.png?v=4',
   },
 }
 
